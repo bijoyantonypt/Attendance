@@ -13,7 +13,7 @@ import os
 import sys
 
 # ----------- CONFIGURATION -----------
-DEVICE_IP = "192.168.1.34"
+DEVICE_IP = "192.168.29.201"
 DEVICE_PORT = 4370
 TIMEOUT = 10
 OUTPUT_DIR = "reports"
